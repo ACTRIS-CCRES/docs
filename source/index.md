@@ -1,18 +1,19 @@
 ---
-sd_hide_title: true
+title: ACTRIS-CCRES documentation
 ---
-
-# ACTRIS-CCRES documentation
-
-
-
-
 
 ```{toctree}
 :hidden:
 :caption: Services
 
-services/grafana.md
+services/grafana/index
+```
+
+```{toctree}
+:hidden:
+:caption: codes
+
+codes/index.md
 ```
 
 
