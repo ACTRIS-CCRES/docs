@@ -102,6 +102,8 @@ html_theme_options = {
     "show_toc_level": 2,
 }
 
+html_last_updated_fmt = "%b %d, %Y"
+
 html_theme = "sphinx_book_theme"
 html_static_path = ["assets", "_static"]
 # html_css_files = [
