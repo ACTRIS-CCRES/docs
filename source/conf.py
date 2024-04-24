@@ -81,13 +81,14 @@ myst_enable_extensions = [
     "colon_fence",
     "smartquotes",
     "replacements",
-    # "linkify",
+    "linkify",
     "strikethrough",
     "substitution",
     "tasklist",
     "attrs_inline",
     "attrs_block",
 ]
+myst_linkify_fuzzy_links = False
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -106,7 +107,5 @@ html_last_updated_fmt = "%b %d, %Y"
 
 html_theme = "sphinx_book_theme"
 html_static_path = ["assets", "_static"]
-# html_css_files = [
-#     "css/custom.css",
-# ]
+html_favicon = str(LOGO_PATH)
 html_logo = str(LOGO_PATH)
