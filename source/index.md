@@ -6,7 +6,7 @@ title: ACTRIS-CCRES documentation
 :hidden:
 :caption: Services
 
-services/grafana/index
+services/grafana-server/index
 ```
 
 ```{toctree}
