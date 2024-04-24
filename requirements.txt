@@ -1,3 +1,4 @@
 myst_parser[linkify,rtd]
 sphinx
+sphinx-autobuild
 sphinx_book_theme
