@@ -39,7 +39,7 @@ Edugain is a service that allows you to use your academic credentials to service
 
 ### AERIS
 
-If you are unable to use any of the above methods, you can create an AERIS account. Click on the **register** link (purple border).
+If you are unable to use any of the above methods, you can create an AERIS account. Click on the **register** link (green border).
 
 ![grafana home](../../assets/services/grafana/grafana_aeris-sso.png){width=500 align=center}
 
