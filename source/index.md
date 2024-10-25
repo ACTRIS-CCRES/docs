@@ -1,25 +1,12 @@
 # ACTRIS-CCRES documentation
 
+Access here CCRES documentation about Standard Operating Procedures, Housekeeping Data and data processing codes.
 
 ```{toctree}
-:maxdepth: 3
+:maxdepth: 1
 :caption: Services
 
 sops/index
-```
-
-```{toctree}
-:maxdepth: 3
-
 services/grafana-server/index
-```
-
-```{toctree}
-:maxdepth: 2
-
 codes/index.md
 ```
-
-
-
-
