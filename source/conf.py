@@ -101,6 +101,28 @@ html_theme_options = {
     "use_sidenotes": True,
     "home_page_in_toc": False,
     "show_toc_level": 2,
+    "extra_footer": """
+    <div style="display: flex; justify-content: space-between;" >
+        <a href="https://www.cnrs.fr">
+            <img src="_static/institutions/logo_cnrs.png" alt="CNRS logo" height="50px">
+        <a>
+        <a href="https://www.uvsq.fr/">
+            <img src="_static/institutions/logo_uvsq.png" alt="UVSQ logo" height="50px">
+        <a>
+        <a href="https://www.polytechnique.fr/">
+            <img src="_static/institutions/logo_polytechnique.png" alt="polytechnique logo" height="50px">
+        <a>
+        <a href="https://www.fmi.fi/">
+            <img src="_static/institutions/logo_fmi.png" alt="FMI logo" height="50px">
+        <a>
+        <a href="https://www.tudelft.nl/en/">
+            <img src="_static/institutions/logo_tu-delft.png" alt="TU-delft logo" height="50px">
+        <a>
+        <a href="https://www.uni-koeln.de/">
+            <img src="_static/institutions/logo_uni-koln.jpg" alt="uni koln logo" height="50px">
+        <a>
+    </div>
+    """,
 }
 
 html_last_updated_fmt = "%b %d, %Y"
