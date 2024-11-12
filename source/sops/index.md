@@ -31,7 +31,7 @@
 
 ## Weather stations
 
-- [All models](https://drive.google.com/file/d/1WscyLXwF1id1ut-_lIY0CHAoUdx0D7qo/view?usp=sharing)
+- [All models](https://drive.google.com/file/d/1WJO2lpd6KwUWh6bQ-n1s0W9vgy0CbuB-/view?usp=drive_link)
 
 ## Cal/Val
 
