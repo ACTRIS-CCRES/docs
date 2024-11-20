@@ -4,7 +4,6 @@ Access here CCRES documentation about Standard Operating Procedures, Housekeepin
 
 ```{toctree}
 :maxdepth: 1
-
 Home <self>
 ```
 
@@ -15,4 +14,12 @@ Home <self>
 sops/index
 services/grafana-server/index
 codes/index.md
+```
+
+```{toctree}
+:maxdepth: 1
+:hidden:
+:caption: Links
+
+CCRES website <https://ccres.aeris-data.fr/>
 ```
