@@ -4,6 +4,12 @@ Access here CCRES documentation about Standard Operating Procedures, Housekeepin
 
 ```{toctree}
 :maxdepth: 1
+
+Home <self>
+```
+
+```{toctree}
+:maxdepth: 1
 :caption: Services
 
 sops/index
