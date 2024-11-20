@@ -102,6 +102,8 @@ html_theme_options = {
     "use_sidenotes": True,
     "home_page_in_toc": False,
     "show_toc_level": 2,
+    # in dev mode site need to be deploy once to work
+    # TODO: find a way to make it work in dev mode (probably through env variable)
     "extra_footer": f"""
     <div style="display: flex; justify-content: space-between;" >
         <a href="https://www.cnrs.fr">
