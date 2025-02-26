@@ -8,13 +8,13 @@ from pathlib import Path
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 project = "ACTRIS-CCRES documentation"
-copyright = "2024, ACTRIS-CCRES"
+copyright = "2024-2025, ACTRIS-CCRES"
 author = "ACTRIS-CCRES"
 release = "1.0"
 
 BASE_URL = "https://github.com/ACTRIS-CCRES/docs"
 DEPLOY_URL = "https://ccres.ipsl.fr/docs"
-LOGO_PATH = Path(__file__).parent / "assets" / "logo_actris_ccress.png"
+LOGO_PATH = Path(__file__).parent / "assets" / "logo_actris_ccres.png"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
