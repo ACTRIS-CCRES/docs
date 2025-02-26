@@ -5,12 +5,15 @@
 - [All models](https://drive.google.com/file/d/1hW2DvOO4m2WFKdRPlSXv3ueKfVCxvZLh/view?usp=sharing)
 
 ### RPG FMCW Cloud Radars
+
 - [Horizontal Wind Plan Indicator (PPI) Measurement](https://drive.google.com/file/d/1e6cV7itrzKTTkn58CWXfUNTKr1ggesSh/view?usp=sharing)
 - [Cloud Radar Triggred MBF's](https://drive.google.com/file/d/1sm1ip_q_q1TZ9LsaqOJU81E7tGflrVIr/view?usp=sharing)
+- [Cloud radar chirp table, training report](https://drive.google.com/file/d/13j3i50X7YBoBcMSJ66mvcqygwm42DAij/view?usp=drive_link)
 
 ## Microwave Radiometers
 
 - [All models](https://drive.google.com/file/d/1gXCNsloIr0o_f2zatXXRBETvy1AMd4d7/view?usp=sharing)
+
 
 ### RPG HATPRO
 
