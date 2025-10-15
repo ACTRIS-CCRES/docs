@@ -12,12 +12,12 @@
 
 ## Microwave Radiometers
 
-- [All models](hhttps://drive.google.com/file/d/1LiHwh4dFri1JMAKAuoDn1o_UimanN18i/view?usp=drive_link)
+- [All models](https://drive.google.com/file/d/1LiHwh4dFri1JMAKAuoDn1o_UimanN18i/view?usp=sharing)
 
 
 ### RPG HATPRO
 
-- [Liquid nitrogen Calibrations](https://drive.google.com/file/d/1zQgTycyHjiWxkxQGfNCeW9-qcAExVs81/view?usp=drive_link)
+- [Liquid nitrogen Calibrations](https://drive.google.com/file/d/1zQgTycyHjiWxkxQGfNCeW9-qcAExVs81/view?usp=sharing)
 
 ## Doppler Lidars
 
@@ -34,7 +34,7 @@
 
 ## Weather stations
 
-- [All models](https://drive.google.com/file/d/1WJO2lpd6KwUWh6bQ-n1s0W9vgy0CbuB-/view?usp=drive_link)
+- [All models](https://drive.google.com/file/d/1WJO2lpd6KwUWh6bQ-n1s0W9vgy0CbuB-/view?usp=sharing)
 
 ## Cal/Val
 
