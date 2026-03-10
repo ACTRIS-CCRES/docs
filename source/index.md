@@ -12,6 +12,7 @@ Home <self>
 :caption: Services
 
 sops/index
+labelling/index
 services/grafana-server/index
 codes/index.md
 ```
