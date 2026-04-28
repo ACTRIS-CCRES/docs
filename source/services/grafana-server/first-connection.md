@@ -12,7 +12,7 @@
 
 ## Choose your authentication method
 
-![grafana home](../../assets/services/grafana/grafana_aeris-sso.png){width=500 align=center}
+![grafana home](../../assets/services/grafana/grafana_data-terra-sso.png){width=500 align=center}
 
 You have 3 ways to authenticate:
 - [edugain](https://edugain.org/)
@@ -37,7 +37,20 @@ Edugain is a service that allows you to use your academic credentials to service
 ![grafana edugain](../../assets/services/grafana/grafana_edugain.png){width=500 align=center}
 
 
-### AERIS
+### DATA TERRA/GAIA DATA
+
+This is the replacement of AERIS method.
+
+If you are unable to use any of the above methods, you can create an AERIS account. Click on the **register** link (green border).
+
+![grafana home](../../assets/services/grafana/grafana_data-terra-sso.png){width=500 align=center}
+
+You will just have to fill the form and validate your email address.
+
+
+### AERIS (not available anymore)
+
+This interface is replaced by the Data Terra/Gaia Data SSO.
 
 If you are unable to use any of the above methods, you can create an AERIS account. Click on the **register** link (green border).
 
