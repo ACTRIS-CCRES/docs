@@ -3,11 +3,11 @@
 ## Access the grafana server
 
 1. Go to [https://ccres.ipsl.fr/grafana/](https://ccres.ipsl.fr/grafana/)
-1. Click on the `Sign in with AERIS-SSO` button
+1. Click on the `Sign in with Data Terra SSO` button
 
     ![grafana home](../../assets/services/grafana/grafana_welcome-page.png){width=500 align=center}
 
-1. You will be redirected on the AERIS-SSO (Single Sign On) login page
+1. You will be redirected on the Data Terra SSO (Single Sign On) login page
 
 
 ## Choose your authentication method
