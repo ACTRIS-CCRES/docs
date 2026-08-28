@@ -14,6 +14,13 @@ Home <self>
 sops/index
 labelling/index
 services/grafana-server/index
+```
+
+```{toctree}
+:maxdepth: 1
+:caption: Tools
+
+tools/mailing_lists.md
 codes/index.md
 ```
 
